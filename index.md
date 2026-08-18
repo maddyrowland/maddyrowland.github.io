@@ -5,3 +5,8 @@
 layout: splash
 author_profile: true
 ---
+
+I am a PhD candidate studying wildlife biology at the University of Montana. My research interests are in the area of wildlife disease ecology. My main projects are:
+- Project 1
+- Project 2
+- Project 3
