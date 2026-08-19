@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Welcome to My Site"
-permalink: /
+title: "Predators, Parasites, and Pathogens"
+permalink: /home/
 classes:
   - wide
   - dark-theme
@@ -15,6 +15,8 @@ header:
   actions:
     - label: "Learn More"
       url: /about/
+    - label: "Curriculum Vitae"
+      url: /CV/
 
 #intro: 
 #  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
