@@ -10,7 +10,7 @@ excerpt: "Maddy Rowland is a PhD candidate in the Wildlife Population and Diseas
 
 header:
   overlay_image: /assets/splash/emigrant.jpg
-  overlay_filter: 0.3
+  overlay_filter: 0.4
   caption: "Photo credit: Isaac Rowland"
   actions:
     - label: "Learn More"
