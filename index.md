@@ -6,7 +6,7 @@ classes:
   - wide
   - dark-theme
 
-excerpt: "Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin."
+excerpt: "Maddy Rowland is a PhD Candidate in the Population and Disease Ecology Lab which is housed in the Wildlife Biology program at the University of Montana. Her research focuses on improving our understanding of the complex relationships among wildlife populations including predators, parasites, and pathogens."
 
 header:
   overlay_image: /assets/splash/emigrant.jpg
