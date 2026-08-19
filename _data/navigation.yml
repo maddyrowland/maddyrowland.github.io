@@ -5,5 +5,5 @@ main:
     url: /research/
   - title: "Fieldwork"
     url: /fieldwork/
-  #- title: "Teaching"
-  # url: /teaching/
+  - title: "About"
+     url: /about/
