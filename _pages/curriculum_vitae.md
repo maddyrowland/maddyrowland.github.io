@@ -1,6 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Curriculum Vitae"
 permalink: /Curriculum Vitae/
-layout: tags
 author_profile: true
 ---
