@@ -2,9 +2,7 @@
 #title: "CV"
 permalink: /CV/
 ---
-<a href="assets/images/Rowland_CV_2026.pdf">
-  <img src="assets/images/Rowland_CV_2026_1" width="150%" alt="Read Document">
-</a>
+[Rowland_CV_2026.pdf](https://github.com/user-attachments/files/31237478/Rowland_CV_2026.pdf)
 ![CV page 1](/assets/images/Rowland_CV_2026_1.jpg)
 ![CV page 2](/assets/images/Rowland_CV_2026_2.jpg)
 ![CV page 3](/assets/images/Rowland_CV_2026_3.jpg)
