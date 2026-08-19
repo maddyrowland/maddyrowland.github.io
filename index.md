@@ -6,7 +6,7 @@ classes:
   - wide
   - dark-theme
 
-excerpt: "Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.                                                                                                               "
+excerpt: "Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin."
 
 header:
   overlay_image: /assets/splash/emigrant.jpg
