@@ -6,7 +6,7 @@ classes:
   - wide
   - dark-theme
 header:
-  overlay_image: /assets/splash/emigrant.jpg
+  image: /assets/splash/emigrant.jpg
   overlay_filter: 0.5
   actions:
     - label: "Enter Site"
