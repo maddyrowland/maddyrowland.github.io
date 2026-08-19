@@ -1,19 +1,36 @@
 ---
-title: "Madeline Rowland"
 layout: splash
-permalink: /home/
+title: "Welcome to My Site"
+permalink: /
+classes:
+  - wide
+  - dark-theme
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/splash/laika.jpeg
+  overlay_image: /assets/splash/laika.jpg
+  overlay_filter: 0.5
   actions:
-    - label: "Download"
-      url: "#test-link"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "Enter Site"
+      url: /blog/
+    - label: "Learn More"
+      url: /about/
 ---
-# <img width="3870" height="2902" alt="IMG_0649" src="https://github.com/user-attachments/assets/3e2389fb-a975-44df-9ab1-570d3933054d" />
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
-# I am a PhD candidate studying wildlife biology at the University of Montana. My research interests are in the area of wildlife disease ecology. My main projects are:
-# - Project 1
-# - Project 2
-# - Project 3
+{% include feature_row id="intro" type="center" %}
+
+feature_row:
+  - image_path: /assets/images/feature-1.jpg
+    alt: "Feature One"
+    title: "Our Services"
+    excerpt: "Discover what we can do to help you scale your projects."
+    url: "/services/"
+    btn_class: "btn--primary"
+    btn_label: "Explore"
+  - image_path: /assets/images/feature-2.jpg
+    alt: "Feature Two"
+    title: "Portfolio"
+    excerpt: "Check out our latest open-source contributions."
+    url: "/portfolio/"
+    btn_class: "btn--success"
+    btn_label: "View Work"
