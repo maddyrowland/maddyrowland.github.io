@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-permalink: /Curriculum Vitae/
+permalink: /CV/
 ---
 
 add cv here
