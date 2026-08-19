@@ -6,7 +6,7 @@ classes:
   - wide
   - dark-theme
 
-excerpt: "Insert something here                                                                                                                                                                                           "
+excerpt: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 header:
   overlay_image: /assets/splash/emigrant.jpg
