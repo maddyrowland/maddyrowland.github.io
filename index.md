@@ -5,15 +5,16 @@ permalink: /
 classes:
   - wide
   - dark-theme
+
+excerpt: "Insert something here"
+
 header:
   overlay_image: /assets/splash/emigrant.jpg
   overlay_filter: 0.5
+  caption: "Photo credit: Isaac Rowland"
   actions:
-    - label: "Enter Site"
-      url: /blog/
     - label: "Learn More"
       url: /about/
-  header_classes: "p-5"
 
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
@@ -39,13 +40,6 @@ feature_row:
     btn_class: "btn--primary"
 
 ---
-
-
-
-
-
-
-
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
