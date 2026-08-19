@@ -2,7 +2,7 @@
 #title: "CV"
 permalink: /CV/
 ---
-[Click here to download my CV.](/assets/documents/Rowland_CV_2026.pdf)
+[Download CV](/assets/documents/Rowland_CV_2026.pdf)
 ![CV page 1](/assets/images/Rowland_CV_2026_1.jpg)
 ![CV page 2](/assets/images/Rowland_CV_2026_2.jpg)
 ![CV page 3](/assets/images/Rowland_CV_2026_3.jpg)
