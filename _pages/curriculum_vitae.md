@@ -4,6 +4,7 @@ permalink: /CV/
 ---
 
 ![CV page 1](/assets/images/Rowland_CV_2026_1.jpg)
+<img src="/assets/images/Rowland_CV_2026_1.jpg" width="150%">
 ![CV page 2](/assets/images/Rowland_CV_2026_2.jpg)
 ![CV page 3](/assets/images/Rowland_CV_2026_3.jpg)
 ![CV page 4](/assets/images/Rowland_CV_2026_4.jpg)
