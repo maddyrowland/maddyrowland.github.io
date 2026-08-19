@@ -4,10 +4,10 @@ permalink: /CV/
 ---
 
 ![CV page 1](/assets/images/Rowland_CV_2026_1.jpg)
-![CV page 2](path/to/your/image.jpg)
-![CV page 3](path/to/your/image.jpg)
-![CV page 4](path/to/your/image.jpg)
-![CV page 5](path/to/your/image.jpg)
-![CV page 6](path/to/your/image.jpg)
-![CV page 7](path/to/your/image.jpg)
-![CV page 8](path/to/your/image.jpg)
+![CV page 2](/assets/images/Rowland_CV_2026_2.jpg)
+![CV page 3](/assets/images/Rowland_CV_2026_3.jpg)
+![CV page 4](/assets/images/Rowland_CV_2026_4.jpg)
+![CV page 5](/assets/images/Rowland_CV_2026_5.jpg)
+![CV page 6](/assets/images/Rowland_CV_2026_6.jpg)
+![CV page 7](/assets/images/Rowland_CV_2026_7.jpg)
+![CV page 8](/assets/images/Rowland_CV_2026_8.jpg)
