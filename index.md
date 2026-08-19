@@ -6,7 +6,7 @@ classes:
   - wide
   - dark-theme
 
-excerpt: "Maddy Rowland is a PhD Candidate in the Wildlife Population and Disease Ecology Lab at the University of Montana. Her current research focuses on understanding how parasite co-infection influences the disease dynamics of the zoonotic pathogen Sin Nombre viurs."
+excerpt: "Maddy Rowland is a PhD Candidate in the Wildlife Population and Disease Ecology Lab at the University of Montana. Her current research focuses on understanding how parasite co-infection influences the disease dynamics of a zoonotic pathogen."
 
 header:
   overlay_image: /assets/splash/emigrant.jpg
