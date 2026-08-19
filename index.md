@@ -10,7 +10,7 @@ excerpt: "Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim e
 
 header:
   overlay_image: /assets/splash/emigrant.jpg
-  overlay_filter: 0.2
+  overlay_filter: 0.3
   caption: "Photo credit: Isaac Rowland"
   actions:
     - label: "Learn More"
