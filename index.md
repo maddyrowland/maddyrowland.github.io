@@ -6,7 +6,7 @@ classes:
   - wide
   - dark-theme
 
-excerpt: "Maddy Rowland is a PhD Candidate in the Population and Disease Ecology Lab which is housed in the Wildlife Biology program at the University of Montana. Her research focuses on improving our understanding of the complex relationships among wildlife populations including predators, parasites, and pathogens."
+excerpt: "Maddy Rowland is a PhD Candidate in the Wildlife Population and Disease Ecology Lab at the University of Montana."
 
 header:
   overlay_image: /assets/splash/emigrant.jpg
