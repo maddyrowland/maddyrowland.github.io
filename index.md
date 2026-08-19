@@ -15,7 +15,7 @@ header:
   actions:
     - label: "Learn More"
       url: /about/
-    - label: "Curriculum Vitae"
+    - label: "CV"
       url: /CV/
 
 #intro: 
