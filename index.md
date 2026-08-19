@@ -11,7 +11,10 @@ xxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+
+                                      
+"
 
 header:
   overlay_image: /assets/splash/emigrant.jpg
@@ -20,6 +23,8 @@ header:
   actions:
     - label: "Learn More"
       url: /about/
+
+excerpt: "Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin."
 
 #intro: 
 #  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
