@@ -1,6 +1,6 @@
 ---
 title: "Posts by Tag"
-permalink: /tags/
+permalink: /Curriculum Vitae/
 layout: tags
 author_profile: true
 ---
