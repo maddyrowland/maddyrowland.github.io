@@ -18,7 +18,7 @@ xxxxxxxxxxxxxxxxxxxx
 
 header:
   overlay_image: /assets/splash/emigrant.jpg
-  overlay_filter: 0.3
+  overlay_filter: 0.2
   caption: "Photo credit: Isaac Rowland"
   actions:
     - label: "Learn More"
