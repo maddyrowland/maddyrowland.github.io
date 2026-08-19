@@ -1,6 +1,13 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /CV/
 ---
 
-add cv here
+![CV page 1](path/to/your/image.jpg)
+![CV page 2](path/to/your/image.jpg)
+![CV page 3](path/to/your/image.jpg)
+![CV page 4](path/to/your/image.jpg)
+![CV page 5](path/to/your/image.jpg)
+![CV page 6](path/to/your/image.jpg)
+![CV page 7](path/to/your/image.jpg)
+![CV page 8](path/to/your/image.jpg)
