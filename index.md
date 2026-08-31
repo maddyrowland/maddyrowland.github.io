@@ -20,7 +20,7 @@ header:
 #  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
 
 feature_row:
-  - image_path: /assets/splash/feat1-1.jpg
+  - image_path: /assets/splash/wolf.png
     title: "Predators"
     excerpt: "Sample text 1 with **markdown** formatting."
     url: "#test-link"
