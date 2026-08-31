@@ -20,7 +20,7 @@ header:
 #  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
 
 feature_row:
-  - <iframe src="https://www.morphosource.org/uv.html#?manifest=/manifests/b38ce2bb-f580-424b-9011-c713a3ee7ff6&c=0&m=0&cv=0" width="560" height="420" allowfullscreen frameborder="0"></iframe>#image_path: /assets/splash/feat1-1.jpg
+  - image_path: <iframe src="https://www.morphosource.org/uv.html#?manifest=/manifests/b38ce2bb-f580-424b-9011-c713a3ee7ff6&c=0&m=0&cv=0" width="560" height="420" allowfullscreen frameborder="0"></iframe> #image_path: /assets/splash/feat1-1.jpg
     title: "Predators"
     excerpt: "Sample text 1 with **markdown** formatting."
     url: "#test-link"
