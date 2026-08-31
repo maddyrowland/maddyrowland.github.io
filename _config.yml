@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Madeline K Rowland"
   avatar : "/assets/images/profile.jpg"
-  bio    : "PhD Candidate studying Wildlife Disease Ecology in the Wildlife Biology Program at the University of Montana"
+  bio    : "PhD Candidate                   Wildlife Disease Ecology                   Wildlife Biology                   University of Montana"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
