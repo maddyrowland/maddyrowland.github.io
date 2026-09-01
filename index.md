@@ -32,7 +32,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/splash/sir.png
+  - image_path: /assets/splash/snv.png
     title: "Pathogens"
     excerpt: "Identifying patterns of parasite interactions with **Sin Nombre virus** in its reservoir host"
     url: "#test-link"
