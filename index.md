@@ -22,19 +22,19 @@ header:
 feature_row:
   - image_path: /assets/splash/wolf.png
     title: "Predators"
-    excerpt: "Sample text 1 with **markdown** formatting."
+    excerpt: "3D digitization of **Yellowstone wolf skulls** for global research, education, and outreach"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/splash/acanthocephalan.jpeg
     title: "Parasites"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Building a large, detailed museum collection of deer mouse (*Peromyscus maniculatus*) parasites"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--secondar"
   - image_path: /assets/splash/sir.png
     title: "Pathogens"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Identifying patterns of parasite interactions with **Sin Nombre virus** in its reservoir host"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
