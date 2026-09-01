@@ -25,19 +25,19 @@ feature_row:
     excerpt: "3D digitization of **Yellowstone wolf skulls** for global research, education, and outreach"
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
   - image_path: /assets/splash/acanthocephalan.jpeg
     title: "Parasites"
-    excerpt: "Building a large, detailed museum collection of deer mouse (*Peromyscus maniculatus*) parasites"
+    excerpt: "Building a detailed collection of deer mouse (*Peromyscus maniculatus*) parasites for the **University of Montana Zoological Museum"
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--secondar"
+    btn_class: "btn--inverse"
   - image_path: /assets/splash/sir.png
     title: "Pathogens"
     excerpt: "Identifying patterns of parasite interactions with **Sin Nombre virus** in its reservoir host"
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
 
 ---
 
