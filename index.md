@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/splash/acanthocephalan.jpeg
     title: "Parasites"
-    excerpt: "Building a detailed collection of deer mouse (*Peromyscus maniculatus*) parasites for the **University of Montana Zoological Museum"
+    excerpt: "Building a detailed collection of deer mouse parasites for the **University of Montana Zoological Museum**"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
