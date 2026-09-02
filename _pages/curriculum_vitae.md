@@ -1,6 +1,7 @@
 ---
 #title: "CV"
 permalink: /CV/
+classes: wide
 ---
 [Download CV](/assets/documents/Rowland_CV_2026.pdf)
 ![CV page 1](/assets/images/Rowland_CV_2026_1.jpg)
