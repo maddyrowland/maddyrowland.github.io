@@ -16,7 +16,7 @@ Add a general summary of research activities.
 
 ### Project Description
 
-[Poster](https://github.com/user-attachments/files/31758101/GradCon2025_.poster.pdf)
+![](/assets/images/GradCon2025_ poster.pdf){: .align-center}
 
 Add a project description.
 
@@ -38,3 +38,5 @@ Add a project description.
 
 ### Project Description
 [EEID 2026.pdf](https://github.com/user-attachments/files/31758130/EEID.2026.pdf)
+
+![](/assets/images/EEID 2026.pdf){: .align-center}
