@@ -17,7 +17,7 @@ Add a general summary of research activities.
 
 ### Project Description
 
-![](/assets/images/GradCon2025_ poster.pdf){: .align-center}
+![](/assets/images/wolf_skull_poster.png){: .align-center}
 
 Add a project description.
 
@@ -38,6 +38,6 @@ Add a project description.
 ## Parasite interactions with Sin Nombre virus
 
 ### Project Description
-[EEID 2026.pdf](https://github.com/user-attachments/files/31758130/EEID.2026.pdf)
 
-![](/assets/images/EEID 2026.pdf){: .align-center}
+
+![](/assets/images/coinfection_poster.png){: .align-center}
