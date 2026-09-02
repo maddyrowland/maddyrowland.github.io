@@ -25,19 +25,23 @@ Add a project description.
 
 [Global Drivers of Morphological Variation in Grey Wolves](https://doi.org/10.1111/ddi.70228)
 
-[3D digitization of Yellowstone wolf skulls for education, research, and outreach](https://scholarworks.umt.edu/gsrc/2025/posters/2/)
-
 ### Outreach
+
+[3D digitization of Yellowstone wolf skulls for education, research, and outreach](https://scholarworks.umt.edu/gsrc/2025/posters/2/)
 
 # Parasites
 ## UM Zoological Museum deer mouse parasites
 
 ### Project Description
 
+Add project description here.
+
 # Pathogens
 ## Parasite interactions with Sin Nombre virus
 
 ### Project Description
+
+Add project description here.
 
 
 ![](/assets/images/coinfection_poster.png){: .align-center}
