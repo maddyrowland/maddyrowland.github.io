@@ -23,19 +23,19 @@ feature_row:
   - image_path: /assets/splash/wolf.png
     title: "Predators"
     excerpt: "3D digitization of **Yellowstone wolf skulls** for global research, education, and outreach"
-    url: "/research/#predators"
+    url: /research/#predators
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/acanthocephalan.jpeg
     title: "Parasites"
     excerpt: "Building a detailed collection of deer mouse parasites for the **UM Zoological Museum**"
-    url: "/research/#parasites"
+    url: /research/#parasites
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/splash/snv.png
     title: "Pathogens"
     excerpt: "Identifying patterns of parasite interactions with **Sin Nombre virus** in its reservoir host"
-    url: "/research/#pathogens"
+    url: /research/#pathogens
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
