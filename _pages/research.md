@@ -4,6 +4,7 @@ layout: single
 permalink: /research/
 toc: true
 toc_label: "Table of Contents"
+toc_sticky: true
 ---
 
 Add a general summary of research activities.
