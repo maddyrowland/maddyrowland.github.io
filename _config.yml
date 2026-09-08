@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Madeline K Rowland"
+  name   : "Maddy Rowland"
   avatar : "/assets/images/profile.jpg"
   bio    : "PhD Candidate - Disease Ecology Wildlife Biology Program at the University of Montana"
   links:
