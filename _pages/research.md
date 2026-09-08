@@ -23,8 +23,6 @@ With support from an Emerging Conservationists Grant from Conservation Nation an
 
 ![](/assets/images/wolf_skull_poster.png){: .align-center}
 
-Add a project description.
-
 ### Publications
 
 [Global Drivers of Morphological Variation in Grey Wolves](https://doi.org/10.1111/ddi.70228)
