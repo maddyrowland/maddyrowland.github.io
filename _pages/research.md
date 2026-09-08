@@ -29,13 +29,13 @@ With support from an Emerging Conservationists Grant from Conservation Nation an
 
 ### Outreach
 
-[University of Montana ScholarWorks](https://scholarworks.umt.edu/gsrc/2025/posters/2/)
-
 [Conservation Nation Blog](https://conservationnation.org/maddy-jackson-begins-3d-digitization-of-wolf-skulls/)
+
+[University of Montana](https://www.umt.edu/news/2023/12/122623wolf.php)
 
 [Bozeman Daily Chronicle](https://www.bozemandailychronicle.com/news/environment/student-passion-project-to-bring-yellowstone-wolf-skulls-online/article_7fb3b79c-b0a5-11ee-aa94-3b478206ed0a.html)
 
-[University of Montana](https://www.umt.edu/news/2023/12/122623wolf.php)
+[ScholarWorks](https://scholarworks.umt.edu/gsrc/2025/posters/2/)
 
 [The Missoulian](https://missoulian.com/news/local/education/article_f3b45672-a5b7-11ee-a021-4b952be0a624.html)
 
