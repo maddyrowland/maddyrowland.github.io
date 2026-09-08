@@ -9,6 +9,8 @@ toc_sticky: true
 
 This page is a work in progress.
 
+Check out my publications on [ResearchGate](https://www.researchgate.net/profile/Madeline-Rowland-3)!
+
 
 # Predators 
 ## 3D digitization of Yellowstone wolf skulls
