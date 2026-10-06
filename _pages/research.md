@@ -51,10 +51,12 @@ With support from an Emerging Conservationists Grant from Conservation Nation an
 Parasite collections in natural history museum archives provide invaluable records of environmental change, long-term biodiversity trends, and historical disease outbreaks. Beyond preserving parasites themselves, associated host tissue samples offer a unique opportunity to investigate questions that have yet to be asked.
 
 To investigate parasite co-infections with Sin Nombre hantavirus in deer mice (see Pathogens below), I collected 1,065 deer mice in western Montana and characterized the parasite community of each individual with the help of Dr. Mike Kinsella. Beyond generating data needed for my dissertation, I sought to preserve these specimens and their associated data as a resource for future research. In collaboration with the University of Montana Zoological Museum, the specimens will be cataloged and archived for future use, and their associated data will be made publicly available through the Arctos data repository following publication of my dissertation research. 
-![](/assets/images/maddyandmike.png){: .align-center}
-*Dr. Mike Kinsella and Maddy Rowland teaching kids about parasites during a Halloween event at the Missoula Public Library. (October 2024)*
+
+![](/assets/images/maddyandmike.png|200){: .align-center}
+*Dr. Mike Kinsella and Maddy Rowland teaching kids about parasites at the Missoula Public Library.*
+
 ![](/assets/images/mouseskulls.jpeg){: .align-center}
-*Deer mouse skulls from this project in the UM Zoological Museum archive.*
+*Deer mouse skulls in the UM Zoological Museum archive.*
 
 # Pathogens
 ## Parasite interactions with Sin Nombre virus
