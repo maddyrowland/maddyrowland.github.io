@@ -45,7 +45,8 @@ With support from an Emerging Conservationists Grant from Conservation Nation an
 
 ![](/assets/images/acanth.png){: .align-center}
 
-## UM Zoological Museum deer mouse parasites
+![](/assets/images/maddyandmike.png){: .align-center}
+## Creating a museum collection of deer mouse parasites
 
 ### Project Description
 
