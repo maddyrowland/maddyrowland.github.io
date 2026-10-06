@@ -42,6 +42,9 @@ With support from an Emerging Conservationists Grant from Conservation Nation an
 [The Missoulian](https://missoulian.com/news/local/education/article_f3b45672-a5b7-11ee-a021-4b952be0a624.html)
 
 # Parasites
+
+![](/assets/images/acanth.png){: .align-center}
+
 ## UM Zoological Museum deer mouse parasites
 
 ### Project Description
