@@ -48,7 +48,7 @@ To investigate parasite co-infections with Sin Nombre hantavirus in deer mice (s
 
 ![](/assets/images/coinfection.png){: .align-center}
 
-## Multi-parasite interactions with Sin Nombre hantavirus
+## Parasite interactions with Sin Nombre hantavirus
 
 Emerging infectious diseases pose significant threats to human and wildlife health as global change alters interactions among hosts, parasites, and their environments. As wildlife populations encounter new combinations of parasites, it is increasingly important to understand how parasite interactions shape disease dynamics. Doing so requires moving beyond the single-pathogen-single-host modeling approach, which overlooks interactions among co-infecting parasites that can influence disease dynamics and risk of spillover into humans. 
 
