@@ -42,7 +42,7 @@ To investigate parasite co-infections with Sin Nombre hantavirus in deer mice (s
 
 # Pathogens
 
-<img width="468" height="377" alt="image" src="https://github.com/user-attachments/assets/d75ed9ff-9814-4c4c-8cf0-ff8f364958d2" />
+![](/assets/images/coinfection.png){: .align-center}
 
 ## Multi-parasite interactions with Sin Nombre hantavirus
 
