@@ -9,7 +9,7 @@ toc_sticky: true
 
 I am a wildlife biologist by training, and my ultimate goal is to better understand the complex systems that shape wildlife interactions while sharing what I learn with others who are equally curious about the natural world. I believe that curiosity is contagious: when we share the things that excite us about wildlife, we can inspire others to care about it too. I hope that fostering that sense of curiosity and connection can help build the interest and support needed to conserve the wildlife and ecosystems that we value. 
 
-My research focuses primarily on wildlife disease ecology, alongside work to digitize the Yellowstone wolf skull collection for research, education, and outreach. I combines field research, parasitology, museum collections, quantitative modeling, 3D digitization, and morphometric analyses to investigate quesitons about wildlife health, ecology, and conservation. 
+My research focuses primarily on wildlife disease ecology, alongside work to digitize the Yellowstone wolf skull collection for research, education, and outreach. I combine field research, parasitology, museum collections, quantitative modeling, 3D digitization, and morphometric analyses to investigate quesitons about wildlife health, ecology, and conservation. 
 
 My research has two overarching goals: (1) to improve our understanding of wildlife disease systems by considering the ecological context of parasite communities, and (2) to make valuable research specimens and their associated data more accessible to researchers, educators, and the public.
 
