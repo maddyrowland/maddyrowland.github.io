@@ -7,10 +7,9 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
-This page is a work in progress.
 
-Check out my publications on [ResearchGate](https://www.researchgate.net/profile/Madeline-Rowland-3)!
 
+Navigate to my profile on [ResearchGate](https://www.researchgate.net/profile/Madeline-Rowland-3) for more information.
 
 # Predators 
 ## 3D digitization of Yellowstone wolf skulls
@@ -23,22 +22,6 @@ Yellowstone National Park is home to one of the most extensively studied wolf po
 With support from an Emerging Conservationists Grant from Conservation Nation and the Yellowstone Wolf Project, Maddy started this project in 2021 with her colleague, Jonathan Keller. The ultimate goal is to create a complete digital repository of the Yellowstone wolf skull collection, making these specimens publicly accessible through MorphoSource. The 3D skull shown above, for example, is a digital reconstruction of the cranium of 302M, famously nicknamed “Cassanova.” This wolf was featured in the PBS documentary *In the Valley of the Wolves* and the National Geographic documentary *Rise of Black Wolf*.
 
 ![](/assets/images/wolf_skull_poster.png){: .align-center}
-
-### Publications
-
-[Global Drivers of Morphological Variation in Grey Wolves](https://doi.org/10.1111/ddi.70228)
-
-### Outreach
-
-[Conservation Nation Blog](https://conservationnation.org/maddy-jackson-begins-3d-digitization-of-wolf-skulls/)
-
-[University of Montana](https://www.umt.edu/news/2023/12/122623wolf.php)
-
-[Bozeman Daily Chronicle](https://www.bozemandailychronicle.com/news/environment/student-passion-project-to-bring-yellowstone-wolf-skulls-online/article_7fb3b79c-b0a5-11ee-aa94-3b478206ed0a.html)
-
-[ScholarWorks](https://scholarworks.umt.edu/gsrc/2025/posters/2/)
-
-[The Missoulian](https://missoulian.com/news/local/education/article_f3b45672-a5b7-11ee-a021-4b952be0a624.html)
 
 # Parasites
 
@@ -57,6 +40,9 @@ To investigate parasite co-infections with Sin Nombre hantavirus in deer mice (s
 ![](/assets/images/mouseskulls.jpeg){: .align-center}
 *Deer mouse skulls in the UM Zoological Museum archive.*
 
+![](/assets/images/gracieposter.PNG){: .align-center}
+*Undergraduate research assistant Gracie Henrie's poster for the 2026 American Society of Mammalogists conference detailing our collaboration with the UM Zoological Museum.*
+
 # Pathogens
 ## Parasite interactions with Sin Nombre virus
 
@@ -66,3 +52,19 @@ Add project description here.
 
 
 ![](/assets/images/coinfection_poster.png){: .align-center}
+
+### Publications
+
+[Global Drivers of Morphological Variation in Grey Wolves](https://doi.org/10.1111/ddi.70228)
+
+### Outreach
+
+[Conservation Nation Blog](https://conservationnation.org/maddy-jackson-begins-3d-digitization-of-wolf-skulls/)
+
+[University of Montana](https://www.umt.edu/news/2023/12/122623wolf.php)
+
+[Bozeman Daily Chronicle](https://www.bozemandailychronicle.com/news/environment/student-passion-project-to-bring-yellowstone-wolf-skulls-online/article_7fb3b79c-b0a5-11ee-aa94-3b478206ed0a.html)
+
+[ScholarWorks](https://scholarworks.umt.edu/gsrc/2025/posters/2/)
+
+[The Missoulian](https://missoulian.com/news/local/education/article_f3b45672-a5b7-11ee-a021-4b952be0a624.html)
