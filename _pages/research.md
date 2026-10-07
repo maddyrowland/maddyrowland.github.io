@@ -41,13 +41,21 @@ To investigate parasite co-infections with Sin Nombre hantavirus in deer mice (s
 *Undergraduate research assistant Gracie Henrie's poster for the 2026 American Society of Mammalogists conference detailing our collaboration with the UM Zoological Museum.*
 
 # Pathogens
-## Parasite interactions with Sin Nombre virus
 
+<img width="468" height="377" alt="image" src="https://github.com/user-attachments/assets/d75ed9ff-9814-4c4c-8cf0-ff8f364958d2" />
 
-Add project description here.
+## Multi-parasite interactions with Sin Nombre hantavirus
 
+Emerging infectious diseases pose significant threats to human and wildlife health as global change alters interactions among hosts, parasites, and their environments. As wildlife populations encounter new combinations of parasites, it is increasingly important to understand how parasite interactions shape disease dynamics. Doing so requires moving beyond the single-pathogen-single-host modeling approach, which overlooks interactions among co-infecting parasites that can influence disease dynamics and risk of spillover into humans. 
+
+My dissertation investigates interactions between Sin Nombre hantavirus (SNV) and co-infecting parasites in wild deer mouse populations as a model system. SNV causes hantavirus pulmonary syndrome in humans, a severe disease with a 30-40% case fatality rate. Because there is no vaccine or cure, predicting SNV prevalence in wild deer mice is an important step in assessing spillover risk. Deer mice commonly experience co-infection with multiple parasites, yet current models of this system overlook interactions among co-infecting parasites.
+
+Preliminary results from my dissertation research reveal an important association between SNV and a severe liver infection caused by the nematode parasite *Calodium hepaticum*. This interaction suggests that a previously overlooked parasite may influence SNV disease dynamics in wild deer mouse populations and our understanding of spillover risk. Using RNA-sequencing data, I am investigating immune mechanisms that may mediate this interaction. Because *C. hepaticum* is a generalist parasite that infects rodents globally, similar interactions may occur across other rodent-borne disease systems.
+
+To investigate these interactions more broadly, I am repurposing a modeling framework traditionally used to identify patterns of wildlife species co-occurrence to identify patterns of parasite co-infection across disease systems. This approach provides a novel way to uncover common but poorly understood parasite interactions and determine how they shape wildlife disease dynamics. Ultimately, my research aims to improve disease prediction by incorporating the ecological context of parasite communities in our dynamic models of disease systems.
 
 ![](/assets/images/coinfection_poster.png){: .align-center}
+* 2026 poster for the Ecology and Evolution of Infectious Diseases conference.*
 
 ### Publications
 
