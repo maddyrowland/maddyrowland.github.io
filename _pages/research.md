@@ -60,7 +60,7 @@ To investigate these interactions more broadly, I am repurposing a modeling fram
 
 ![](/assets/images/coinfection_poster.png){: .align-center}
 
-### Publications
+# Publications
 
 * note last name change from Jackson to Rowland in 2024
 
@@ -77,7 +77,7 @@ National Park. In: DellaSala DA, Goldstein MI (Eds.), Imperiled: The Encyclopedi
 Kiffner C, Arndt Z, Foky T, Gaeth M, Gannett A, **Jackson M**, Lellmen G, Love S, Maroldi A, McLaughlin S, Skenandore B, von Euler S, Zambrano Z, Kissui B (2019) Land use, REDD+ and the status of wildlife populations in Yaeda Valley, northern Tanzania. PLoS ONE 14 (4): e0214823.
 [Link >>](https://doi.org/10.1371/journal.pone.0214823)
 
-### Outreach
+# Outreach
 
 [Conservation Nation Blog](https://conservationnation.org/maddy-jackson-begins-3d-digitization-of-wolf-skulls/)
 
