@@ -7,9 +7,13 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
+I am a wildlife biologist by training, and my ultimate goal is to better understand the complex systems that shape wildlife interactions while sharing what I learn with others who are equally curious about the natural world. I believe that curiosity is contagious: when we share the things that excite us about wildlife, we can inspire others to care about it too. I hope that fostering that sense of curiosity and connection can help build the interest and support needed to conserve the wildlife and ecosystems that we value. 
 
+My research focuses primarily on wildlife disease ecology, alongside work to digitize the Yellowstone wolf skull collection for research, education, and outreach. I combines field research, parasitology, museum collections, quantitative modeling, 3D digitization, and morphometric analyses to investigate quesitons about wildlife health, ecology, and conservation. 
 
-Navigate to my profile on [ResearchGate](https://www.researchgate.net/profile/Madeline-Rowland-3) for more information.
+My research has two overarching goals: (1) to improve our understanding of wildlife disease systems by considering the ecological context of parasite communities, and (2) to make valuable research specimens and their associated data more accessible to researchers, educators, and the public.
+
+For more information, visit my profile on [ResearchGate](https://www.researchgate.net/profile/Madeline-Rowland-3).
 
 # Predators 
 ## 3D digitization of Yellowstone wolf skulls
@@ -55,7 +59,6 @@ Preliminary results from my dissertation research reveal an important associatio
 To investigate these interactions more broadly, I am repurposing a modeling framework traditionally used to identify patterns of wildlife species co-occurrence to identify patterns of parasite co-infection across disease systems. This approach provides a novel way to uncover common but poorly understood parasite interactions and determine how they shape wildlife disease dynamics. Ultimately, my research aims to improve disease prediction by incorporating the ecological context of parasite communities in our dynamic models of disease systems.
 
 ![](/assets/images/coinfection_poster.png){: .align-center}
-* 2026 poster for the Ecology and Evolution of Infectious Diseases conference.*
 
 ### Publications
 
