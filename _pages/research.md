@@ -65,16 +65,20 @@ To investigate these interactions more broadly, I am repurposing a modeling fram
 * note last name change from Jackson to Rowland in 2024
 
 Bujnakova D, Du Plessis SJ, Falcinelli D, Gundlach C, Holmala K, Keller JS, Khumri M, Korbi J, Mysłajek R, Pieruzek-Nowak S, Paule L, Raundrup K, **Rowland MK**, Sinding M, Tamagnini D, Valtonen M, Aspi J, Kvist L, Hipsley CH (2026) Global drivers of morphological variation in grey wolves. Diversity and Distributions 32: e70228.
+
 [Link >>](https://doi.org/10.1111/ddi.70228)
 
 Brandell EE, **Jackson MK**, Cross PC, Piaggio AJ, Taylor DR, Smith DW, Boufana B, Stahler DR, Hudson PJ (2022) Evaluating noninvasive methods for estimating cestode prevalence in a wild carnivore population. PLoS ONE 17(11): e0277420. 
+
 [Link >>]([https://doi.org/10.1111/ddi.70228](https://doi.org/10.1371/journal.pone.0277420))
 
 **Jackson MK**, Tatton NR, Smith DW (2022) Wolf Recovery in Yellowstone
 National Park. In: DellaSala DA, Goldstein MI (Eds.), Imperiled: The Encyclopedia of Conservation, vol. 3. Elsevier, pp. 301–312.
+
 [Link >>](https://doi.org/10.1016/B978-0-12-821139-7.00078-7)
 
 Kiffner C, Arndt Z, Foky T, Gaeth M, Gannett A, **Jackson M**, Lellmen G, Love S, Maroldi A, McLaughlin S, Skenandore B, von Euler S, Zambrano Z, Kissui B (2019) Land use, REDD+ and the status of wildlife populations in Yaeda Valley, northern Tanzania. PLoS ONE 14 (4): e0214823.
+
 [Link >>](https://doi.org/10.1371/journal.pone.0214823)
 
 # Outreach
