@@ -2,6 +2,8 @@
 permalink: /gallery/
 title: "Photo Gallery"
 gallery:
+  - image_path: /assets/images/maddymouse2.jpeg
+    url: /assets/images/maddymouse2.jpeg
   - image_path: /assets/images/mentorship_lab.jpg
     url: /assets/images/mentorship_lab.jpg
   - image_path: /assets/images/outreach.jpg
