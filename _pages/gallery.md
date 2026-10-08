@@ -107,5 +107,44 @@ gallery:
 
   - image_path: /assets/images/whipworms.jpg
     url: /assets/images/whipworms.jpg
+
+  - image_path: /assets/images/acanthupclose.jpeg
+    url: /assets/images/acanthupclose.jpeg
+
+  - image_path: /assets/images/blood.jpeg
+    url: /assets/images/blood.jpeg
+
+  - image_path: /assets/images/bot2.jpg
+    url: /assets/images/bot2.jpg
+
+  - image_path: /assets/images/calodium.jpg
+    url: /assets/images/calodium.jpg
+
+  - image_path: /assets/images/forestandsteph.jpeg
+    url: /assets/images/forestandsteph.jpeg
+
+  - image_path: /assets/images/iris.jpeg
+    url: /assets/images/iris.jpeg
+
+  - image_path: /assets/images/parker2.jpg
+    url: /assets/images/parker2.jpg
+
+  - image_path: /assets/images/rachel2.jpg
+    url: /assets/images/rachel2.jpg
+
+  - image_path: /assets/images/rachel3.jpg
+    url: /assets/images/rachel3.jpg
+
+  - image_path: /assets/images/roundworm3.jpeg
+    url: /assets/images/roundworm3.jpeg
+
+  - image_path: /assets/images/roundworm4.jpeg
+    url: /assets/images/roundworm4.jpeg
+
+  - image_path: /assets/images/tapeworm.jpg
+    url: /assets/images/tapeworm.jpg
+
+  - image_path: /assets/images/whipworm2.jpg
+    url: /assets/images/whipworm2.jpg
 ---
 {% include gallery id="gallery" class="full"%}
