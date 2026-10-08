@@ -1,6 +1,6 @@
 ---
 permalink: /gallery/
-title: "Photo Gallery"
+title: "Dissertation Photo Gallery"
 gallery:
 
   - image_path: /assets/images/maddymouse2.jpeg
