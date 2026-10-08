@@ -7,13 +7,13 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
-I am a wildlife biologist by training, and my ultimate goal is to better understand the complex systems that shape wildlife interactions while sharing what I learn with others who are equally curious about the natural world. I believe that curiosity is contagious: when we share the things that excite us about wildlife, we can inspire others to care about it too. I hope that fostering that sense of curiosity and connection can help build the interest and support needed to conserve the wildlife and ecosystems that we value. 
+Maddy is a wildlife biologist by training, and her ultimate goal is to better understand the complex systems that shape wildlife interactions while sharing what she learns with others who are equally curious about the natural world. She believes that curiosity is contagious: when we share the things that excite us about wildlife, we can inspire others to care about it too. She hopes that fostering that sense of curiosity and connection can help build the interest and support needed to conserve the wildlife and ecosystems that we value. 
 
-My research focuses primarily on wildlife disease ecology, alongside work to digitize the Yellowstone wolf skull collection for research, education, and outreach. I combine field research, parasitology, museum collections, quantitative modeling, 3D digitization, and morphometric analyses to investigate quesitons about wildlife health, ecology, and conservation. 
+Her research focuses primarily on wildlife disease ecology, alongside work to digitize the Yellowstone wolf skull collection for research, education, and outreach. She combines field research, parasitology, museum collections, quantitative modeling, 3D digitization, and morphometric analyses to investigate quesitons about wildlife health, ecology, and conservation. 
 
-My research has two overarching goals: (1) to improve our understanding of wildlife disease systems by considering the ecological context of parasite communities, and (2) to make valuable research specimens and their associated data more accessible to researchers, educators, and the public.
+Her research has two overarching goals: (1) to improve our understanding of wildlife disease systems by considering the ecological context of parasite communities, and (2) to make valuable research specimens and their associated data more accessible to researchers, educators, and the public.
 
-For more information, visit my profile on [ResearchGate](https://www.researchgate.net/profile/Madeline-Rowland-3).
+For more information, visit her profile on [ResearchGate](https://www.researchgate.net/profile/Madeline-Rowland-3).
 
 # Predators 
 ## 3D digitization of Yellowstone wolf skulls
@@ -33,7 +33,7 @@ With support from an Emerging Conservationists Grant from Conservation Nation an
 
 Parasite collections in natural history museum archives provide invaluable records of environmental change, long-term biodiversity trends, and historical disease outbreaks. Beyond preserving parasites themselves, associated host tissue samples offer a unique opportunity to investigate questions that have yet to be asked.
 
-To investigate parasite co-infections with Sin Nombre hantavirus in deer mice (see Pathogens below), I collected 1,065 deer mice in western Montana and characterized the parasite community of each individual with the help of Dr. Mike Kinsella. Beyond generating data needed for my dissertation, I sought to preserve these specimens and their associated data as a resource for future research. In collaboration with the University of Montana Zoological Museum, the specimens will be cataloged and archived for future use, and their associated data will be made publicly available through the Arctos data repository following publication of my dissertation research. 
+To investigate parasite co-infections with Sin Nombre hantavirus in deer mice (see Pathogens below), she collected over 1,000 deer mice in western Montana and characterized the parasite community of each individual with the help of Dr. Mike Kinsella. Beyond generating data needed for her dissertation, she sought to preserve these specimens and their associated data as a resource for future research. In collaboration with the University of Montana Zoological Museum, the specimens will be cataloged and archived for future use, and their associated data will be made publicly available through the Arctos data repository following publication of her dissertation research. 
 
 ![](/assets/images/maddyandmike.png){: .align-center}
 *Dr. Mike Kinsella and Maddy Rowland teaching kids about parasites at the Missoula Public Library.*
@@ -52,11 +52,11 @@ To investigate parasite co-infections with Sin Nombre hantavirus in deer mice (s
 
 Emerging infectious diseases pose significant threats to human and wildlife health as global change alters interactions among hosts, parasites, and their environments. As wildlife populations encounter new combinations of parasites, it is increasingly important to understand how parasite interactions shape disease dynamics. Doing so requires moving beyond the single-pathogen-single-host modeling approach, which overlooks interactions among co-infecting parasites that can influence disease dynamics and risk of spillover into humans. 
 
-My dissertation investigates interactions between Sin Nombre hantavirus (SNV) and co-infecting parasites in wild deer mouse populations as a model system. SNV causes hantavirus pulmonary syndrome in humans, a severe disease with a 30-40% case fatality rate. Because there is no vaccine or cure, predicting SNV prevalence in wild deer mice is an important step in assessing spillover risk. Deer mice commonly experience co-infection with multiple parasites, yet current models of this system overlook interactions among co-infecting parasites.
+Maddy's dissertation investigates interactions between Sin Nombre hantavirus (SNV) and co-infecting parasites in wild deer mouse populations as a model system. SNV causes hantavirus pulmonary syndrome in humans, a severe disease with a 30-40% case fatality rate. Because there is no vaccine or cure, predicting SNV prevalence in wild deer mice is an important step in assessing spillover risk. Deer mice commonly experience co-infection with multiple parasites, yet current models of this system overlook interactions among co-infecting parasites.
 
-Preliminary results from my dissertation research reveal an important association between SNV and a severe liver infection caused by the nematode parasite *Calodium hepaticum*. This interaction suggests that a previously overlooked parasite may influence SNV disease dynamics in wild deer mouse populations and our understanding of spillover risk. Using RNA-sequencing data, I am investigating immune mechanisms that may mediate this interaction. Because *C. hepaticum* is a generalist parasite that infects rodents globally, similar interactions may occur across other rodent-borne disease systems.
+Preliminary results from her dissertation research reveal an important association between SNV and a severe liver infection caused by the nematode parasite *Calodium hepaticum*. This interaction suggests that a previously overlooked parasite may influence SNV disease dynamics in wild deer mouse populations and our understanding of spillover risk. Using RNA-sequencing data, she is investigating immune mechanisms that may mediate this interaction. Because *C. hepaticum* is a generalist parasite that infects rodents globally, similar interactions may occur across other rodent-borne disease systems.
 
-To investigate these interactions more broadly, I am repurposing a modeling framework traditionally used to identify patterns of wildlife species co-occurrence to identify patterns of parasite co-infection across disease systems. This approach provides a novel way to uncover common but poorly understood parasite interactions and determine how they shape wildlife disease dynamics. Ultimately, my research aims to improve disease prediction by incorporating the ecological context of parasite communities in our dynamic models of disease systems.
+To investigate these interactions more broadly, she is repurposing a modeling framework traditionally used to identify patterns of wildlife species co-occurrence to identify patterns of parasite co-infection across disease systems. This approach provides a novel way to uncover common but poorly understood parasite interactions and determine how they shape wildlife disease dynamics. Ultimately, her research aims to improve disease prediction by incorporating the ecological context of parasite communities in our models of disease systems.
 
 ![](/assets/images/coinfection_poster.png){: .align-center}
 
@@ -65,20 +65,16 @@ To investigate these interactions more broadly, I am repurposing a modeling fram
 * note last name change from Jackson to Rowland in 2024
 
 Bujnakova D, Du Plessis SJ, Falcinelli D, Gundlach C, Holmala K, Keller JS, Khumri M, Korbi J, Mysłajek R, Pieruzek-Nowak S, Paule L, Raundrup K, **Rowland MK**, Sinding M, Tamagnini D, Valtonen M, Aspi J, Kvist L, Hipsley CH (2026) Global drivers of morphological variation in grey wolves. Diversity and Distributions 32: e70228.
-
 [Link >>](https://doi.org/10.1111/ddi.70228)
 
 Brandell EE, **Jackson MK**, Cross PC, Piaggio AJ, Taylor DR, Smith DW, Boufana B, Stahler DR, Hudson PJ (2022) Evaluating noninvasive methods for estimating cestode prevalence in a wild carnivore population. PLoS ONE 17(11): e0277420. 
-
 [Link >>]([https://doi.org/10.1111/ddi.70228](https://doi.org/10.1371/journal.pone.0277420))
 
 **Jackson MK**, Tatton NR, Smith DW (2022) Wolf Recovery in Yellowstone
 National Park. In: DellaSala DA, Goldstein MI (Eds.), Imperiled: The Encyclopedia of Conservation, vol. 3. Elsevier, pp. 301–312.
-
 [Link >>](https://doi.org/10.1016/B978-0-12-821139-7.00078-7)
 
 Kiffner C, Arndt Z, Foky T, Gaeth M, Gannett A, **Jackson M**, Lellmen G, Love S, Maroldi A, McLaughlin S, Skenandore B, von Euler S, Zambrano Z, Kissui B (2019) Land use, REDD+ and the status of wildlife populations in Yaeda Valley, northern Tanzania. PLoS ONE 14 (4): e0214823.
-
 [Link >>](https://doi.org/10.1371/journal.pone.0214823)
 
 # Outreach
