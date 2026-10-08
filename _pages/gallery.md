@@ -15,4 +15,4 @@ gallery:
     alt: "Description of the third image"
     title: "Image Three Title"
 ---
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery" class="full" caption="This is a sample gallery with **Markdown support**." %}
