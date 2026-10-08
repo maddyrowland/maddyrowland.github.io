@@ -23,6 +23,9 @@ gallery:
     
   - image_path: /assets/images/amy.jpg
     url: /assets/images/amy.jpg
+
+  - image_path: /assets/images/EEID2026.jpeg
+    url: /assets/images/EEID2026.jpeg
     
   - image_path: /assets/images/baiting.jpeg
     url: /assets/images/baiting.jpeg
