@@ -68,7 +68,7 @@ Bujnakova D, Du Plessis SJ, Falcinelli D, Gundlach C, Holmala K, Keller JS, Khum
 [Link >>](https://doi.org/10.1111/ddi.70228)
 
 Brandell EE, **Jackson MK**, Cross PC, Piaggio AJ, Taylor DR, Smith DW, Boufana B, Stahler DR, Hudson PJ (2022) Evaluating noninvasive methods for estimating cestode prevalence in a wild carnivore population. PLoS ONE 17(11): e0277420. 
-[Link >>]([https://doi.org/10.1111/ddi.70228](https://doi.org/10.1371/journal.pone.0277420))
+[Link >>](https://doi.org/10.1371/journal.pone.0277420)
 
 **Jackson MK**, Tatton NR, Smith DW (2022) Wolf Recovery in Yellowstone
 National Park. In: DellaSala DA, Goldstein MI (Eds.), Imperiled: The Encyclopedia of Conservation, vol. 3. Elsevier, pp. 301–312.
